@@ -19,7 +19,7 @@ const Footer = () => {
             &copy; {currentYear} {personalInfo.name}. All rights reserved.
           </p>
           <p className="flex items-center justify-center">
-            Made with <FaHeart className="text-red-500 mx-1" /> using React &amp; Tailwind CSS
+            Made with <FaHeart className="text-red-500 mx-1" /> by Vishal.
           </p>
         </div>
       </div>

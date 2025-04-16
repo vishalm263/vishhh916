@@ -44,8 +44,8 @@ export const projects = [
     description: "A portfolio website that showcases my projects and skills.",
     image: "/images/portfolio.jpg",
     tags: ["React", "Tailwind CSS", "Framer Motion","shadcn/ui"],
-    source_code_link: "https://github.com/vishalm263/portfolio",
-    live_demo_link: "https://vishalm263.github.io/portfolio/",
+    source_code_link: "https://github.com/vishalm263/vishhh916",
+    live_demo_link: "https://vishhh916.vercel.app/",
     featured: false
   },
   
