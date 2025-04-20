@@ -33,8 +33,7 @@ A modern, responsive developer portfolio website built with React, Vite, Tailwin
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   cd portfolio
+   git clone https://github.com/vishalm263/vishhh916.git
    ```
 
 2. Install dependencies
